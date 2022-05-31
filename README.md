@@ -1,10 +1,13 @@
-# Cotizador Criptos App
+# Cotizador CriptoMonedas App
 
-[![wakatime](https://wakatime.com/badge/user/54d759a2-12d9-48b4-9e4e-88518abe7706/project/b0968726-23ed-41e5-88fc-0e04227afb2a.svg)](https://wakatime.com/badge/user/54d759a2-12d9-48b4-9e4e-88518abe7706/project/b0968726-23ed-41e5-88fc-0e04227afb2a)
+[![wakatime](https://wakatime.com/badge/user/54d759a2-12d9-48b4-9e4e-88518abe7706/project/ea72d547-3431-4756-865a-75224b6da59e.svg)](https://wakatime.com/badge/user/54d759a2-12d9-48b4-9e4e-88518abe7706/project/ea72d547-3431-4756-865a-75224b6da59e)
+
+![image](https://user-images.githubusercontent.com/90290626/171204908-7fee6d1d-64fa-4167-8a11-3c5927274e29.png)
+
 
 ### **Despliegue:**
 
-[Cotizador Criptos](https://cotizador-criptos.vercel.app/)
+[Cotizador CriptoMonedas](https://cotizador-criptos.vercel.app/)
 
 ## **Descripción**
 
